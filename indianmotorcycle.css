@@ -1,0 +1,16 @@
+body {
+      background-image: url("https://www.indianmotorcycledaytonabeach.com/fckimages/2021%20Bike%20Photos/WebLarge_JPG-IMC_MY21_SGT_BIKE_AS_HERO_SCOUT_MAROON_CRIMSON_METALLIC_01713.jpg");
+      background-size: cover;
+      background-position: left;
+      background-repeat: no-repeat;
+    }
+
+    .prompt-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+      width: 480px;
+      height: 100%;
+      justify-content: center;
+      /* background-color: rgb(60, 60, 60); */
+    }
